@@ -1,4 +1,4 @@
-## Introduction about myself
+## Introduction
 
 I'm a backend engineer and TechLead of `Mobile Banking Application` which has 2M+ users
 and also open source contributer on `line/armeria` and `grpc/grpc-go`
